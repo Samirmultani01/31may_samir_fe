@@ -1,0 +1,15 @@
+1:-protocol?
+ans:-A protocol is a set of rues and guidelines for communicating data.
+
+2:-domain?
+ans:-A particular area of activity or a field of action and thought.
+
+3:-SEO?
+ans:-(search engine optimization)is a process of iproving your websites to increase its visiblity.
+
+4:-JavaScript?
+ans:-A dynamic programming language that's used for web development.
+
+  (A)ClientScript:-A piece of JavaScript code that's run on your web browser instead of server.
+  
+  (B)ServerScript:-A programming technique for creating code that may run software on the server side.

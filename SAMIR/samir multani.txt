@@ -1,0 +1,19 @@
+1:-web server?
+ans:-a server that storing processing and delevering web pages to the user.
+(ex-cloud)
+
+2:-web site?
+ans:-a collection of informative web pages on world wide web.
+(ex-www.hcojas.com)
+
+3:-search engine?
+ans:-a system that finds a web pages which is match a web search.
+(ex-yahoo,bing)
+
+4:-web page?
+ans:-a web page is a document page on world wide web which id deleverd by a web server.
+(ex-home page)
+
+5:-web browser?
+ans:-a web browser is an application for accessing web sites.
+(ex-chrome,firefox)
